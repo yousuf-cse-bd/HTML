@@ -1,0 +1,15 @@
+h3{ /*This is tag/element selector*/
+    color: tomato;
+}
+/*Class name can be duplicate*/
+.one{ /*This is class selector*/
+    color: green;
+}
+/* ID name must be unique not duplicate */
+#one{ /*This is id selector*/
+    color: blue;
+}
+
+*{ /* Universal selector or all selector */
+    color: cyan;
+}
